@@ -214,6 +214,7 @@ span {
 .section-two-img2 img {
     padding: 0px 40px;
     width: 25vw;
+    border-radius: 100%;
 
 }
 
@@ -474,7 +475,7 @@ h3 {
 
 .section-three-pic {
     width: 100px;
-    padding-left: 13rem;
+    padding-left: 11rem;
 }
 
 .section-three-section .section-three-container {
@@ -748,7 +749,7 @@ footer {
     color: white;
     font-size: 20px;
     display: none;
-    margin-left: 10px;
+    margin-right: 4px;
 
 }
 
@@ -818,7 +819,7 @@ footer {
 
 
     .navbar-content li a {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         margin-left: 0;
         text-decoration: none;
         display: flex;
@@ -877,7 +878,7 @@ footer {
 
     .section-three-pic {
         width: 80px;
-        padding-left: 6.5rem;
+        padding-left: 6rem;
     }
 
     .section-three-heading {
@@ -908,7 +909,7 @@ footer {
 
     .section-three-card-head {
         padding: 20px;
-        margin-left: 2rem;
+        /* margin-left: 2rem; */
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
@@ -936,7 +937,8 @@ footer {
     .section-two-img2 img {
         padding: 0px 30px;
         width: 80vw;
-        border-radius: 700px;
+        border-radius: 100%;
+
     }
 
     .heading1 {
